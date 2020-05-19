@@ -1,1 +1,2 @@
-# software_quality
+# Calidad de software
+## Trabajos realizados en el segundo corte
